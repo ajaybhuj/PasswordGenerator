@@ -23,8 +23,7 @@ This React application is a simple yet powerful password generator. It allows us
 - **Ref Hook:** Uses `useRef` to interact with the password input field directly.
 ## Demo
 
-[Insert link to live demo or screenshots]
-
+[https://lucent-sable-30bace.netlify.app/]
 ## Installation
 
 1. Clone the repository:
