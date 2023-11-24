@@ -22,7 +22,7 @@ This React application is a simple yet powerful password generator. It allows us
 - **Use of Hooks:** Implements `useCallback` for optimizing function memorization and `useEffect` for handling side effects.
 - **Ref Hook:** Uses `useRef` to interact with the password input field directly.
 ## Demo
-[passwordgenerator2056.netlify.app]
+[https://passwordgenerator2056.netlify.app]
 ## Installation
 
 1. Clone the repository:
