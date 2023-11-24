@@ -32,13 +32,15 @@ This React Password Generator app allows you to generate random passwords based 
 
 ```bash
 git clone https://github.com/[your-username]/react-password-generator.git
-2. Navigate to the project directory:
 ```
+2. Navigate to the project directory:
 ```bash
 cd react-password-generator
+```
 3.Install dependencies:
 ```bash
 npm install
+```
 #Usage
 1.Start the development server:
 ```bash
