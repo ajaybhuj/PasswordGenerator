@@ -17,4 +17,18 @@ This React Password Generator app allows you to generate random passwords based 
 
 ## Features
 
-- Customize password
+- Customize password length
+- Include or exclude numbers
+- Include or exclude special characters
+- Copy generated password to clipboard
+
+## Demo
+
+[Insert link to live demo or screenshots]
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/[your-username]/react-password-generator.git
